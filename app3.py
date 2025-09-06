@@ -28,7 +28,7 @@ def set_background(image_url):
     )
 
 # === Set your background image ===
-background_image_url = "https://nichefinder.xyz/upload/images/blog/what-is-ai-video.jpg?t=1706507410"
+background_image_url = "image_background"
 set_background(background_image_url)
 
 # === OpenAI API Key Setup ===
@@ -115,7 +115,5 @@ if ctx and ctx.audio_processor:
                 image_output.error(f"Image generation failed: {e}")
                 
 
-# Footer
-st.markdown("---")
-st.write("Created with ❤️ by Santosh")# Footer
+
 
