@@ -51,7 +51,7 @@ The Whisper Voice-to-Image Generator is a creative AI tool that bridges the gap 
 It showcases an engaging way to combine natural language processing, audio streaming, and generative AI in a user-friendly interface.
 
 
-![image_alt] (https://github.com/AI-santosh-88/Whisper-Voice-to-Image-Generator/blob/d48a9ab3e082d0f1fad04b3ac8e11ebf97bd8337/AI-voice-img.png?raw=true)
+![image_alt](https://github.com/AI-santosh-88/Whisper-Voice-to-Image-Generator/blob/e0f02e06e54e17aaaad4f75fd8711d40e09d8342/AI-voice-img.png?raw=true)
 
 
 
